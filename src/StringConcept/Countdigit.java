@@ -3,7 +3,7 @@ package StringConcept;
 public class Countdigit {
 
 	
-		// This is modified and will commit to github
+		// This is modified and will commit to master branch
 		// take some number and divide that number by 10 untill it becomes 0.
 		// Increment the counter and print counter
 		public static void main(String[] args)

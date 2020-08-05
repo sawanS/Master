@@ -1,5 +1,5 @@
 
-public class Abstractclass_constructor{
+public abstract class Abstractclass_constructor{
 	
 	public abstract void test();
 	
